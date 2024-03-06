@@ -1,0 +1,25 @@
+Created point x: 111 y: 109 fc: -16776961 i: 0
+Created line start:: x: 540 y: 78 end:: x: 278 y: 104 fc: -16776961 i: 1
+Created circle x: 598 y: 218 r: 75 fc: -16776961 bc: -65536 i: 2
+Created rectangle x: 643 y: 382 w: 75 h: 75 fc: -16776961 bc: -65536 i: 3
+Created donut x: 506 y: 272 r: 75 ir: 25 fc: -16776961 bc: -65536 i: 4
+Created hexagonAdapter x: 600 y: 344 l: 100 fc: -16776961 bc: -65536 i: 5
+Modified point from x: 111 y: 109 fc: -16776961 to x: 100 y: 100 fc: -13369549 i: 0
+Modified line from start:: x: 540 y: 78 end:: x: 278 y: 104 fc: -16776961 to start:: x: 500 y: 100 end:: x: 100 y: 500 fc: -52378 i: 1
+Modified circle from x: 598 y: 218 r: 75 fc: -16776961 bc: -65536 to x: 598 y: 218 r: 75 fc: -13369549 bc: -13369396 i: 2
+Modified donut from x: 506 y: 272 r: 75 ir: 25 fc: -16776961 bc: -65536 to x: 506 y: 272 r: 75 ir: 25 fc: -154 bc: -13421569 i: 4
+Modified hexagonAdapter from x: 600 y: 344 l: 100 fc: -16776961 bc: -65536 to x: 600 y: 344 l: 100 fc: -6710887 bc: -13421773 i: 5
+Modified rectangle from x: 643 y: 382 w: 75 h: 75 fc: -16776961 bc: -65536 to x: 643 y: 382 w: 75 h: 75 fc: -16711732 bc: -13421569 i: 3
+Moved shape from pos: 5 to 4
+Moved shape from pos: 4 to 3
+Moved shape from pos: 3 to 2
+Moved shape from pos: 2 to 5
+Moved shape from pos: 5 to 0
+Moved shape from pos: 0 to 5
+Moved shape from pos: 5 to 0
+Removed donut x: 506 y: 272 r: 75 ir: 25 fc: -154 bc: -13421569 i: 5
+Removed rectangle x: 643 y: 382 w: 75 h: 75 fc: -16711732 bc: -13421569 i: 4
+Removed circle x: 598 y: 218 r: 75 fc: -13369549 bc: -13369396 i: 3
+Removed line start:: x: 500 y: 100 end:: x: 100 y: 500 fc: -52378 i: 2
+Removed point x: 100 y: 100 fc: -13369549 i: 1
+Removed hexagonAdapter x: 600 y: 344 l: 100 fc: -6710887 bc: -13421773 i: 0
